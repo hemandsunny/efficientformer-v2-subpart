@@ -1,0 +1,1 @@
+This repository contains a specialized test code developed as part of my Master's project to rigorously evaluate aspects of the [EfficientFormerV2](https://github.com/snap-research/EfficientFormer) model.
